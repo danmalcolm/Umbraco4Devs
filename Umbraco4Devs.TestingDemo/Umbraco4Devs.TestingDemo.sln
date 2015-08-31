@@ -5,6 +5,8 @@ VisualStudioVersion = 12.0.31101.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco4Devs.TestingDemo.WebApp", "Umbraco4Devs.TestingDemo.WebApp\Umbraco4Devs.TestingDemo.WebApp.csproj", "{BB3F875F-D3FE-420F-B8C4-1CF1E7D193B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Umbraco4Devs.TestingDemo.Tests", "Umbraco4Devs.TestingDemo.Tests\Umbraco4Devs.TestingDemo.Tests.csproj", "{A9316114-BE92-4D04-967A-05F73F173FBD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{BB3F875F-D3FE-420F-B8C4-1CF1E7D193B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB3F875F-D3FE-420F-B8C4-1CF1E7D193B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB3F875F-D3FE-420F-B8C4-1CF1E7D193B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9316114-BE92-4D04-967A-05F73F173FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9316114-BE92-4D04-967A-05F73F173FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9316114-BE92-4D04-967A-05F73F173FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9316114-BE92-4D04-967A-05F73F173FBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
